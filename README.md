@@ -8,57 +8,55 @@ List of Content:
 
 ### Ethereum
 
-### Ethereum Providers and Public Endpoints
-
-|### Ethereum Providers and Public Endpoints
 
 | Name         | Link | RPC | WebSocket |
 |--------------|------|-----|-----------|
-| Infura.io    | [infura.io](https://infura.io) | [https://infura.io](https://infura.io) | |
-| Alchemy      | [alchemy.com](https://www.alchemy.com) | [https://docs.alchemy.com/reference/ethereum-api-quickstart](https://docs.alchemy.com/reference/ethereum-api-quickstart) | |
-| GetBlock     | [getblock.io](https://getblock.io/nodes/eth/) | [https://getblock.io/nodes/eth/](https://getblock.io/nodes/eth/) | |
-| 0x           | [0x.org](https://0x.org) | [https://0x.org](https://0x.org) | |
-| Amazon Managed Blockchain | [aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain) | [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain) | |
-| Pocket Network | [mainnet.portal.pokt.network](https://mainnet.portal.pokt.network) | [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network) | |
-| Chainstack   | [chainstack.com](https://chainstack.com/build-better-with-ethereum/) | [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/) | |
-| ZMOK         | [zmok.io](https://zmok.io/) | [https://zmok.io/](https://zmok.io/) | |
-| Allnodes     | [allnodes.com](https://www.allnodes.com) | [https://www.allnodes.com](https://www.allnodes.com) | |
-| Figment Datahub | [datahub.figment.io](https://datahub.figment.io/) | [https://datahub.figment.io/](https://datahub.figment.io/) | |
-| Ankr         | [ankr.com](https://ankr.com) | [https://ankr.com](https://ankr.com) | |
-| ArchiveNode  | [archivenode.io](https://archivenode.io/) | [https://archivenode.io/](https://archivenode.io/) | |
-| Blast        | [blastapi.io](https://blastapi.io/) | [https://blastapi.io/](https://blastapi.io/) | |
-| NodeReal     | [nodereal.io](https://nodereal.io/) | [https://nodereal.io/](https://nodereal.io/) | |
-| NOWNodes.io  | [nownodes.io](https://nownodes.io/) | [https://nownodes.io/](https://nownodes.io/) | |
-| Kriptonio    | [kriptonio.com](https://kriptonio.com/) | [https://kriptonio.com/](https://kriptonio.com/) | |
-| Chainbase    | [chainbase.online](https://chainbase.online) | [https://chainbase.online](https://chainbase.online) | |
-| LlamaNodes   | [llamanodes.com](https://llamanodes.com/) | [https://llamanodes.com/](https://llamanodes.com/) | |
-| Exaion Node  | [node.exaion.com](https://node.exaion.com/) | [https://node.exaion.com/](https://node.exaion.com/) | |
-| Chainnodes   | [chainnodes.org](https://www.chainnodes.org/) | [https://www.chainnodes.org/](https://www.chainnodes.org/) | |
-| Node RPC     | [noderpc.xyz](https://www.noderpc.xyz/) | [https://www.noderpc.xyz/](https://www.noderpc.xyz/) | |
-| OnFinality   | [onfinality.io](https://onfinality.io/) | [https://onfinality.io/](https://onfinality.io/) | |
-| Merkle       | [merkle.io](https://merkle.io/) | [https://merkle.io/](https://merkle.io/) | |
-| DRPC         | [drpc.org](https://drpc.org/public-endpoints/ethereum) | [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum) | |
-| Stackup      | [stackup.sh](https://www.stackup.sh/) | [https://www.stackup.sh/](https://www.stackup.sh/) | |
-| Cloudflare   | [cloudflare-eth.com](https://cloudflare-eth.com) | [https://cloudflare-eth.com](https://cloudflare-eth.com) | |
-| Linkpool     | [linkpool.io](https://main-light.eth.linkpool.io) | [https://main-light.eth.linkpool.io](https://main-light.eth.linkpool.io) | |
-| Pocket Network | [eth-rpc.gateway.pokt.network](https://eth-rpc.gateway.pokt.network) | [https://eth-rpc.gateway.pokt.network](https://eth-rpc.gateway.pokt.network) | |
-| MyCryptoAPI  | [mycryptoapi.com](https://api.mycryptoapi.com/eth) | [https://api.mycryptoapi.com/eth](https://api.mycryptoapi.com/eth) | |
-| AVADO        | [ava.do](https://mainnet.eth.cloud.ava.do/) | [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/) | |
-| EthereumNodeLight | [runonflux.io](https://ethereumnodelight.app.runonflux.io) | [https://ethereumnodelight.app.runonflux.io](https://ethereumnodelight.app.runonflux.io) | |
-| Flashbots    | [flashbots.net](https://rpc.flashbots.net/) | [https://rpc.flashbots.net/](https://rpc.flashbots.net/) | |
-| Ankr         | [rpc.ankr.com](https://rpc.ankr.com/eth) | [https://rpc.ankr.com/eth](https://rpc.ankr.com/eth) | |
-| NodeReal     | [nodereal.io](https://eth-mainnet.nodereal.io/v1/) | [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/) | |
-| Blast        | [blastapi.io](https://eth-mainnet.public.blastapi.io) | [https://eth-mainnet.public.blastapi.io](https://eth-mainnet.public.blastapi.io) | |
-| SecureRPC    | [securerpc.com](https://api.securerpc.com/v1) | [https://api.securerpc.com/v1](https://api.securerpc.com/v1) | |
-| RPCFast      | [rpcfast.com](https://eth-mainnet.rpcfast.com) | [https://eth-mainnet.rpcfast.com](https://eth-mainnet.rpcfast.com) | |
-| 1RPC         | [1rpc.io](https://1rpc.io/eth) | [https://1rpc.io/eth](https://1rpc.io/eth) | |
-| PublicNode   | [publicnode.com](https://ethereum.publicnode.com) | [https://ethereum.publicnode.com](https://ethereum.publicnode.com) | |
-| Payload      | [payload.de](https://rpc.payload.de) | [https://rpc.payload.de](https://rpc.payload.de) | |
-| LlamaNodes   | [llamanodes.com](https://llamanodes.com/) | [https://llamanodes.com/](https://llamanodes.com/) | |
-| OnFinality   | [onfinality.io](https://eth.api.onfinality.io/public) | [https://eth.api.onfinality.io/public](https://eth.api.onfinality.io/public) | |
-| Merkle       | [merkle.io](https://eth.merkle.io) | [https://eth.merkle.io](https://eth.merkle.io) | |
-| DRPC         | [drpc.org](https://eth.drpc.org) | [https://eth.drpc.org](https://eth.drpc.org) | |
-| Stackup      | [stackup.sh](https://public.stackup.sh/api/v1/node/ethereum-mainnet) | [https://public.stackup.sh/api/v1/node/ethereum-mainnet](https://public.stackup.sh/api/v1/node/ethereum-mainnet) | |
+| Infura.io    | [infura.io](https://infura.io) | [RPC](https://infura.io) | |
+| Alchemy      | [alchemy](https://www.alchemy.com) | [RPC](https://docs.alchemy.com/reference/ethereum-api-quickstart) | |
+| GetBlock     | [getblock](https://getblock.io/nodes/eth/) | [RPC](https://getblock.io/nodes/eth/) | |
+| 0x           | [0x.org](https://0x.org) | [RPC](https://0x.org) | |
+| Amazon MB    | [aws](https://aws.amazon.com/managed-blockchain) | [RPC](https://aws.amazon.com/managed-blockchain) | |
+| Pocket Net   | [pokt.net](https://mainnet.portal.pokt.network) | [RPC](https://mainnet.portal.pokt.network) | |
+| Chainstack   | [chains](https://chainstack.com/build-better-with-ethereum/) | [RPC](https://chainstack.com/build-better-with-ethereum/) | |
+| ZMOK         | [zmok.io](https://zmok.io/) | [RPC](https://zmok.io/) | |
+| Allnodes     | [allnodes](https://www.allnodes.com) | [RPC](https://www.allnodes.com) | |
+| Figment DH   | [figment](https://datahub.figment.io/) | [RPC](https://datahub.figment.io/) | |
+| Ankr         | [ankr.com](https://ankr.com) | [RPC](https://ankr.com) | |
+| ArchiveNode  | [archive](https://archivenode.io/) | [RPC](https://archivenode.io/) | |
+| Blast        | [blastapi](https://blastapi.io/) | [RPC](https://blastapi.io/) | |
+| NodeReal     | [nodereal](https://nodereal.io/) | [RPC](https://nodereal.io/) | |
+| NOWNodes.io  | [nownodes](https://nownodes.io/) | [RPC](https://nownodes.io/) | |
+| Kriptonio    | [kriptonio](https://kriptonio.com/) | [RPC](https://kriptonio.com/) | |
+| Chainbase    | [chainbase](https://chainbase.online) | [RPC](https://chainbase.online) | |
+| LlamaNodes   | [llamanod](https://llamanodes.com/) | [RPC](https://llamanodes.com/) | |
+| Exaion Node  | [exaion](https://node.exaion.com/) | [RPC](https://node.exaion.com/) | |
+| Chainnodes   | [chainnod](https://www.chainnodes.org/) | [RPC](https://www.chainnodes.org/) | |
+| Node RPC     | [noderpc](https://www.noderpc.xyz/) | [RPC](https://www.noderpc.xyz/) | |
+| OnFinality   | [onfinal](https://onfinality.io/) | [RPC](https://onfinality.io/) | |
+| Merkle       | [merkle](https://merkle.io/) | [RPC](https://merkle.io/) | |
+| DRPC         | [drpc.org](https://drpc.org/public-endpoints/ethereum) | [RPC](https://drpc.org/public-endpoints/ethereum) | |
+| Stackup      | [stackup](https://www.stackup.sh/) | [RPC](https://www.stackup.sh/) | |
+| Cloudflare   | [cloud](https://cloudflare-eth.com) | [RPC](https://cloudflare-eth.com) | |
+| Linkpool     | [linkpool](https://main-light.eth.linkpool.io) | [RPC](https://main-light.eth.linkpool.io) | |
+| Pocket Net   | [pokt.net](https://eth-rpc.gateway.pokt.network) | [RPC](https://eth-rpc.gateway.pokt.network) | |
+| MyCryptoAPI  | [mycrypto](https://api.mycryptoapi.com/eth) | [RPC](https://api.mycryptoapi.com/eth) | |
+| AVADO        | [ava.do](https://mainnet.eth.cloud.ava.do/) | [RPC](https://mainnet.eth.cloud.ava.do/) | |
+| EthNodeLight | [ethnode](https://ethereumnodelight.app.runonflux.io) | [RPC](https://ethereumnodelight.app.runonflux.io) | |
+| Flashbots    | [flashbot](https://rpc.flashbots.net/) | [RPC](https://rpc.flashbots.net/) | |
+| Ankr         | [rpc.ankr](https://rpc.ankr.com/eth) | [RPC](https://rpc.ankr.com/eth) | |
+| NodeReal     | [nodereal](https://eth-mainnet.nodereal.io/v1/) | [RPC](https://eth-mainnet.nodereal.io/v1/) | |
+| Blast        | [blastapi](https://eth-mainnet.public.blastapi.io) | [RPC](https://eth-mainnet.public.blastapi.io) | |
+| SecureRPC    | [securerpc](https://api.securerpc.com/v1) | [RPC](https://api.securerpc.com/v1) | |
+| RPCFast      | [rpcfast](https://eth-mainnet.rpcfast.com) | [RPC](https://eth-mainnet.rpcfast.com) | |
+| 1RPC         | [1rpc.io](https://1rpc.io/eth) | [RPC](https://1rpc.io/eth) | |
+| PublicNode   | [publicnd](https://ethereum.publicnode.com) | [RPC](https://ethereum.publicnode.com) | |
+| Payload      | [payload](https://rpc.payload.de) | [RPC](https://rpc.payload.de) | |
+| LlamaNodes   | [llamanod](https://llamanodes.com/) | [RPC](https://llamanodes.com/) | |
+| OnFinality   | [onfinal](https://eth.api.onfinality.io/public) | [RPC](https://eth.api.onfinality.io/public) | |
+| Merkle       | [merkle](https://eth.merkle.io) | [RPC](https://eth.merkle.io) | |
+| DRPC         | [drpc.org](https://eth.drpc.org) | [RPC](https://eth.drpc.org) | |
+| Stackup      | [stackup](https://public.stackup.sh/api/v1/node/ethereum-mainnet) | [RPC](https://public.stackup.sh/api/v1/node/ethereum-mainnet) | |
+
 
 
 
