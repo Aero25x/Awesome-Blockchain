@@ -140,9 +140,7 @@ List of Content:
 
 | Name         | Link | RPC | WebSocket |
 |--------------|------|-----|-----------|
-| GetBlock     | [getblock.io](https://getblock.io/nodes/algo/) | [RPC](https://getblock.io/nodes/al
-
-go/) | |
+| GetBlock     | [getblock.io](https://getblock.io/nodes/algo/) | [RPC](https://getblock.io/nodes/algo/) | |
 | Pocket Net   | [pokt.net](https://mainnet.portal.pokt.network) | [RPC](https://mainnet.portal.pokt.network) | |
 | NOWNodes.io  | [nownodes.io](https://nownodes.io/) | [RPC](https://nownodes.io/) | |
 
