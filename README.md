@@ -239,9 +239,7 @@ List of Content:
 | Alchemy      | [alchemy.com](https://alchemy.com) | [RPC](https://docs.alchemy.com/reference/arbitrum-api-quickstart) | |
 | ANKR         | [ankr.com](https://ankr.com) | [RPC](https://rpc.ankr.com/arbitrum) | |
 | Figment DH   | [figment](https://datahub.figment.io/) | [RPC](https://datahub.figment.io/) | |
-| NOWNodes.io  | [nownodes.io](https://nownodes.io/) | [RPC](
-
-https://nownodes.io/) | |
+| NOWNodes.io  | [nownodes.io](https://nownodes.io/) | [RPC](https://nownodes.io/) | |
 | Chainstack   | [chainstack.com](https://chainstack.com/build-better-with-arbitrum/) | [RPC](https://chainstack.com/build-better-with-arbitrum/) | |
 | Chainbase    | [chainbase](https://chainbase.online) | [RPC](https://chainbase.online) | |
 | Chainnodes   | [chainnodes.org](https://www.chainnodes.org/) | [RPC](https://www.chainnodes.org/) | |
@@ -253,7 +251,7 @@ https://nownodes.io/) | |
 
 | Name         | Link | RPC | WebSocket |
 |--------------|------|-----|-----------|
-| GetBlock     | [getblock.io](https://getblock.io/nodes/arbitrum-nova/) | [RPC](https://getblock.io/nodes/arbitrum-nova/) | |
+| GetBlock     | [getblock.io](https://getblock.io/nodes/arbitrum-nova/) | [RPC](https://getblock.io/nodes/arbitrum-nova) | |
 | DRPC         | [drpc.org](https://drpc.org/public-endpoints/arbitrum-nova) | [RPC](https://drpc.org/public-endpoints/arbitrum-nova) | |
 
 ### Celo
@@ -359,9 +357,7 @@ https://nownodes.io/) | |
 | Name         | Link | RPC | WebSocket |
 |--------------|------|-----|-----------|
 | Chainstack   | [chainstack.com](https://chainstack.com/build-better-with-starknet/) | [RPC](https://chainstack.com/build-better-with-starknet/) | |
-| DRPC         | [drpc.org](https://drpc.org/public-endpoints/stark
-
-net) | [RPC](https://drpc.org/public-endpoints/starknet) | |
+| DRPC         | [drpc.org](https://drpc.org/public-endpoints/starknet) | [RPC](https://drpc.org/public-endpoints/starknet) | |
 
 ### Cronos
 
