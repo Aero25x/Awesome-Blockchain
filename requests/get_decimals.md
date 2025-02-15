@@ -24,6 +24,10 @@ curl -X POST \
   }' \
   https://api.avax.network/ext/bc/C/rpc
 ```
+or this one compressed
+```
+curl -X POST -H "Content-Type: application/json" --data '{"jsonrpc": "2.0", "id": 1, "method": "eth_call", "params": [{"to": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E", "data": "0x313ce567"}, "latest"]}' https://api.avax.network/ext/bc/C/rpc
+```
 
 
 
