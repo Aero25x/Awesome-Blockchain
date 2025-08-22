@@ -11,6 +11,7 @@
 List of Content:
 - [Best RPC Providers](#best-rpc-providers)
 - [Large Collection of DEX and CEX CVG Logo](https://github.com/Aero25x/cryptocurrencies-exchanges-and-dexes)
+- [RPC speed test](https://github.com/Aero25x/rpc-speed-test)
 
 ## Best RPC Providers
 
