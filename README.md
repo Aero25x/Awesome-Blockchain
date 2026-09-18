@@ -12,6 +12,8 @@ List of Content:
 - [Best RPC Providers](#best-rpc-providers)
 - [Large Collection of DEX and CEX CVG Logo](https://github.com/Aero25x/cryptocurrencies-exchanges-and-dexes)
 - [RPC speed test](https://github.com/Aero25x/rpc-speed-test)
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 7 EVM chains plus a keyless REST API.
+
 
 ## Best RPC Providers
 
