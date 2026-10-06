@@ -38,6 +38,7 @@ List of Content:
 | Kriptonio    | [kriptonio](https://kriptonio.com) | [RPC](https://kriptonio.com/) | |
 | Chainbase    | [chainbase](https://chainbase.online) | [RPC](https://chainbase.online) | |
 | LlamaNodes   | [llamanod](https://llamanodes.com) | [RPC](https://llamanodes.com/) | |
+| LYFTIUM      | [lyftium.com](https://www.lyftium.com) | [RPC](https://eth-mainnet-rpc.lyftium.com) | |
 | Exaion Node  | [exaion](https://node.exaion.com) | [RPC](https://node.exaion.com/) | |
 | Chainnodes   | [chainnod](https://www.chainnodes.org) | [RPC](https://www.chainnodes.org/) | |
 | Node RPC     | [noderpc](https://www.noderpc.xyz) | [RPC](https://www.noderpc.xyz/) | |
